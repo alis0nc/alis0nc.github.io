@@ -1,3 +1,8 @@
+---
+title: alisonc
+layout: page
+---
+
 # alisonc
 Hi, I'm **Alison Chan**, a person currently living in the suburbs of [Detroit](https://en.wikipedia.org/wiki/Detroit), but aspiring to move to the city. I'm a coder, artist, and involved in the local convention scene.
 
