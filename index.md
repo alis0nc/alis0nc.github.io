@@ -22,8 +22,9 @@ My friend [Rachel Chezick](https://www.instagram.com/theanimator_/) convinced me
 ## Conventions
 I'm the Head of Logistics for [Penguicon 2018](https://2018.penguicon.org/). I was the Assistant Head of Logistics for 2017, and the de facto Assistant Head of Logistics for 2016. Logistics at Penguicon entails collaborating with all the other departments. We need to know what we have in the storage cube, and what needs to go (or not go) to con, and how to get it to con. Logistics is a crucial position, because if we don't do our job then nobody has the things they need at con. It's hard but rewarding work.
 
-## Contact
+## Internet presence
  * [Twitter: @alisonc42](https://twitter.com/alisonc42)
  * [GitHub: alis0nc](https://github.com/alis0nc)
+ * [OpenStreetMap: alisonc42](https://www.openstreetmap.org/user/alisonc42)
  * [email: alisonc@alisonc.net](mailto:alisonc@alisonc.net)
 
