@@ -8,7 +8,9 @@ Hi, I'm **Alison Chan**. I'm passionate about public transit, creating art, and 
 I currently live in the western suburbs of [Detroit](https://en.wikipedia.org/wiki/Detroit), but I'm planning to move to the city.
 
 ## Transit
-I'm currently in the process of mapping all the [Detroit Department of Transportation (DDOT)](http://detroitmi.gov/ddot) bus routes for [OpenStreetMap](https://www.openstreetmap.org/). I'm also a member of [Motor City Freedom Riders](https://motorcityfreedomriders.org/) and [Transportation Riders United](http://www.detroittransit.org/), two organisations advocating for improved public transit in Southeastern Michigan.
+I'm currently in the process of mapping all the [Detroit Department of Transportation (DDOT)](http://detroitmi.gov/ddot) bus routes and stop locations for [OpenStreetMap](https://www.openstreetmap.org/). I'm also a member of [Motor City Freedom Riders](https://motorcityfreedomriders.org/) and [Transportation Riders United](http://www.detroittransit.org/), two organisations advocating for improved public transit in Southeastern Michigan.
+
+[Check out my progress on the DDOT mapping project here!](https://docs.google.com/spreadsheets/d/1DuaTFLO9jS-ifWJ7lHtn8ZQgogPP24J--8n1pQ2hcqY/edit?usp=sharing)
 
 ## Technical Tidbits
  * [Better continuous integration for LaTeX projects](better-continuous-integration-for-latex-projects.html)
