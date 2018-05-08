@@ -26,3 +26,5 @@ The `.travis.yml` and `texlive.profile` are below.
 <script src="https://gist.github.com/alis0nc/aac43724f3d30bc63e01710f7e55f90c.js"></script>
 
 This results in a total build and deploy time of [around two minutes](https://travis-ci.org/alis0nc/alisonc-resume/builds), instead of eight minutes for Miro's method. This could probably be improved with a bit of manual intervention -- `texliveonfly` resolves dependencies "whack-a-mole" style i.e. keeps compiling the same document over and over again, halting on missing package errors, installing that package, until compilation succeeds. If you examined the build output to find what packages `texliveonfly` is installing, then added them to the `before_install` step of `.travis.yml`, performance would improve.
+
+*Edit 2018-05-08: Expanded upon reason for choosing vanilla TeX Live and `texliveonfly`.*
