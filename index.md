@@ -12,11 +12,13 @@ I'm currently in the process of mapping all the [Detroit Department of Transport
 
 [Check out my progress on the DDOT mapping project here!](https://docs.google.com/spreadsheets/d/1DuaTFLO9jS-ifWJ7lHtn8ZQgogPP24J--8n1pQ2hcqY/edit?usp=sharing)
 
-## Technical Tidbits
+## Technical Projects
  * [Better continuous integration for LaTeX projects](better-continuous-integration-for-latex-projects.html)
+ * [Bendyboi Tracker](https://github.com/alis0nc/bendyboi-tracker), a Discord bot frontend to the [SMART](https://www.smartbus.org/) bus tracker API
+ * [SMART Bus API Docs](/smartbus-api-docs/), a collaborative project with [ShadowFoxNixill](https://github.com/ShadowFoxNixill) to publicly document SMART's heretofore undocumented API
 
 ## Art
-My friend [Rachel Chezick](https://www.instagram.com/theanimator_/) convinced me to take part in [Inktober](http://www.inktober.com/) in 2017, a 31-day drawing challenge with a one-word prompt for each day in October. I've posted my progress to [Instagram @passport.mid](https://www.instagram.com/passport.mid/), and I'm working on getting a portfolio page set up on this site.
+I post my photographs and drawings to my [Instagram profile, @passport.mid](https://www.instagram.com/passport.mid/).
 
 ## Conventions
 I'm the Head of Logistics for [Penguicon 2018](https://2018.penguicon.org/). I was the Assistant Head of Logistics for 2017, and the de facto Assistant Head of Logistics for 2016. Penguicon Logistics involves being the custodian of Penguicon's storage unit, working with nearly every other department of Penguicon to maintain the inventory of con possessions, and coordinating the transportation of all of Penguicon's possessions (plus a huge amount of food that is served in our hospitality suite) from the storage unit to the con venue.
