@@ -5,7 +5,7 @@ layout: default
 ![Portrait by Meghann Pardee](images/ACkmPPbw250.jpg)
 
 Hi, I'm **Alison Chan**. I'm passionate about public transit, creating art, and shaping communities. I view technology not as an end in itself, but as a means to create and further community and make the world a better place.
-I currently live in the western suburbs of [Detroit](https://en.wikipedia.org/wiki/Detroit), but I'm planning to move to the city.
+I currently live in the western suburbs of [Detroit](https://en.wikipedia.org/wiki/Detroit), but I'm in process of moving to [Mexicantown](https://en.wikipedia.org/wiki/Mexicantown,_Detroit).
 
 ## Transit
 I'm currently in the process of mapping all the [Detroit Department of Transportation (DDOT)](http://detroitmi.gov/ddot) bus routes and stop locations for [OpenStreetMap](https://www.openstreetmap.org/). I'm also a member of [Motor City Freedom Riders](https://motorcityfreedomriders.org/) and [Transportation Riders United](http://www.detroittransit.org/), two organisations advocating for improved public transit in Southeastern Michigan.
@@ -15,6 +15,7 @@ I'm currently in the process of mapping all the [Detroit Department of Transport
 ## Technical Projects
  * [Better continuous integration for LaTeX projects](better-continuous-integration-for-latex-projects.html)
  * [Bendyboi Tracker](https://github.com/alis0nc/bendyboi-tracker), a Discord bot frontend to the [SMART](https://www.smartbus.org/) bus tracker API
+ * [What is this week's Torah portion?](https://alis0nc.github.io/whatisthisweekstorahportion)
 
 ## Art
 I post my photographs and drawings to my [Instagram profile, @passport.mid](https://www.instagram.com/passport.mid/).
