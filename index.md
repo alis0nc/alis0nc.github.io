@@ -15,7 +15,7 @@ I'm currently in the process of mapping all the [Detroit Department of Transport
 ## Technical Projects
  * [Better continuous integration for LaTeX projects](better-continuous-integration-for-latex-projects.html)
  * [Bendyboi Tracker](https://github.com/alis0nc/bendyboi-tracker), a Discord bot frontend to the [SMART](https://www.smartbus.org/) bus tracker API
- * [What is this week's Torah portion?](https://alis0nc.github.io/whatisthisweekstorahportion)
+ * [What is this week's Torah portion?](https://whatisthisweekstorahportion.com/)
 
 ## Art
 I post my photographs and drawings to my [Instagram profile, @passport.mid](https://www.instagram.com/passport.mid/).
