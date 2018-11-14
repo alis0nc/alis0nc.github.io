@@ -4,6 +4,14 @@ layout: default
 ---
 ![Portrait by Meghann Pardee](images/ACkmPPbw250.jpg)
 
+**Alison C.** is a software engineer, public transit enthusiast, artist, smart home hacker, and convention organizer located in [Mexicantown, Detroit](https://en.wikipedia.org/wiki/Mexicantown,_Detroit).
+
+Alison has experience with multiple technical stacks, as well as DevOps, CI, and configuration management, and is the creator of "[What is this week's Torah portion?](https://whatisthisweekstorahportion.com/)".
+
+Currently, Alison has ridden at least 22 public transit systems in seven US states, one Canadian province, and Scotland. They are currently in progress of mapping every [Detroit Department of Transportation (DDOT)](http://detroitmi.gov/ddot) bus route for [OpenStreetMap](https://www.openstreetmap.org/) ([progress spreadsheet here](https://docs.google.com/spreadsheets/d/1DuaTFLO9jS-ifWJ7lHtn8ZQgogPP24J--8n1pQ2hcqY/edit?usp=sharing)).
+
+You can find Alison on [Twitter (@alisonc42)](https://twitter.com/alisonc42), [Github (alis0nc)](https://github.com/alis0nc), [OpenStreetMap (alisonc42)](https://www.openstreetmap.org/user/alisonc42), or [email (alisonc+bsite at alisonc.net)](mailto:alisonc+bsite@alisonc.net).
+
 Hi, I'm **Alison Chan**. I'm passionate about public transit, creating art, and shaping communities. I view technology not as an end in itself, but as a means to create and further community and make the world a better place.
 I currently live in the western suburbs of [Detroit](https://en.wikipedia.org/wiki/Detroit), but I'm in process of moving to [Mexicantown](https://en.wikipedia.org/wiki/Mexicantown,_Detroit).
 
