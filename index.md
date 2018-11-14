@@ -12,18 +12,9 @@ Currently, Alison has ridden at least 22 public transit systems in seven US stat
 
 You can find Alison on [Twitter (@alisonc42)](https://twitter.com/alisonc42), [Github (alis0nc)](https://github.com/alis0nc), [OpenStreetMap (alisonc42)](https://www.openstreetmap.org/user/alisonc42), or [email (alisonc+bsite at alisonc.net)](mailto:alisonc+bsite@alisonc.net).
 
-Hi, I'm **Alison Chan**. I'm passionate about public transit, creating art, and shaping communities. I view technology not as an end in itself, but as a means to create and further community and make the world a better place.
-I currently live in the western suburbs of [Detroit](https://en.wikipedia.org/wiki/Detroit), but I'm in process of moving to [Mexicantown](https://en.wikipedia.org/wiki/Mexicantown,_Detroit).
-
-## Transit
-I'm currently in the process of mapping all the [Detroit Department of Transportation (DDOT)](http://detroitmi.gov/ddot) bus routes and stop locations for [OpenStreetMap](https://www.openstreetmap.org/). I'm also a member of [Motor City Freedom Riders](https://motorcityfreedomriders.org/) and [Transportation Riders United](http://www.detroittransit.org/), two organisations advocating for improved public transit in Southeastern Michigan.
-
-[Check out my progress on the DDOT mapping project here!](https://docs.google.com/spreadsheets/d/1DuaTFLO9jS-ifWJ7lHtn8ZQgogPP24J--8n1pQ2hcqY/edit?usp=sharing)
-
 ## Technical Projects
  * [Better continuous integration for LaTeX projects](better-continuous-integration-for-latex-projects.html)
  * [Bendyboi Tracker](https://github.com/alis0nc/bendyboi-tracker), a Discord bot frontend to the [SMART](https://www.smartbus.org/) bus tracker API
- * [What is this week's Torah portion?](https://whatisthisweekstorahportion.com/)
 
 ## Art
 I post my photographs and drawings to my [Instagram profile, @passport.mid](https://www.instagram.com/passport.mid/).
