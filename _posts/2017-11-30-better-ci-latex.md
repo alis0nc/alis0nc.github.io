@@ -1,13 +1,9 @@
 ---
 title: Better continuous integration for LaTeX projects
-layout: default
+layout: post
 ---
 
-## Better continuous integration for LaTeX projects
-
-*30 November 2017*
-
-I was recently inspired to streamline the workflow of building [my résumé](https://github.com/alis0nc/alisonc-resume). It's built in [LaTeX](https://www.latex-project.org), with some conditional compilation tricks to create different versions (e.g. different email addresses, with/without phone number, include/exclude semi-irrelevant employment experience) from one source file. 
+I was recently inspired to streamline the workflow of building [my résumé](https://github.com/alis0nc/alisonc-resume). It's built in [LaTeX](https://www.latex-project.org), with some conditional compilation tricks to create different versions (e.g. different email addresses, with/without phone number, include/exclude semi-irrelevant employment experience) from one source file.
 
 Previously I did this with a shell script and uploading the output pdf files to the repository, but I wasn't satisfied with that. I had to maintain several different build scripts (`.sh` for Linux boxes, `.bat` for Windows boxes, `Makefile` for boxes where I had cloned the repository to a `noexec` filesystem) and change all three of them when I added a new  compilation flag. And then remember to run the build before committing. And then remember to `git add` the changed pdfs. And then commit the pdfs, which is [something one should not do](https://development.robinwinslow.uk/2013/06/11/dont-ever-commit-binary-files-to-git/). Yeah. Terrible.
 

@@ -2,30 +2,13 @@
 title: alisonc
 layout: default
 ---
-![Portrait by Meghann Pardee](images/ACkmPPbw250.jpg)
 
 **Alison C.** is a software engineer, public transit enthusiast, artist, smart home hacker, and convention organizer located in [Mexicantown, Detroit](https://en.wikipedia.org/wiki/Mexicantown,_Detroit).
 
 Alison has experience with multiple technical stacks, as well as DevOps, CI, and configuration management, and is the creator of "[What is this week's Torah portion?](https://whatisthisweekstorahportion.com/)".
 
-Currently, Alison has ridden at least 22 public transit systems in seven US states, one Canadian province, and Scotland. They are currently in progress of mapping every [Detroit Department of Transportation (DDOT)](http://detroitmi.gov/ddot) bus route for [OpenStreetMap](https://www.openstreetmap.org/) ([progress spreadsheet here](https://docs.google.com/spreadsheets/d/1DuaTFLO9jS-ifWJ7lHtn8ZQgogPP24J--8n1pQ2hcqY/edit?usp=sharing)).
+Currently, Alison has ridden at least 22 public transit systems across seven US states, one Canadian province, and Scotland. They are currently in progress of mapping every [Detroit Department of Transportation (DDOT)](http://detroitmi.gov/ddot) bus route for [OpenStreetMap](https://www.openstreetmap.org/) ([progress spreadsheet here](https://docs.google.com/spreadsheets/d/1DuaTFLO9jS-ifWJ7lHtn8ZQgogPP24J--8n1pQ2hcqY/edit?usp=sharing)).
 
-You can find Alison on [Twitter (@alisonc42)](https://twitter.com/alisonc42), [Github (alis0nc)](https://github.com/alis0nc), [OpenStreetMap (alisonc42)](https://www.openstreetmap.org/user/alisonc42), or [email (alisonc+bsite at alisonc.net)](mailto:alisonc+bsite@alisonc.net).
+Alison is the Head of Logistics for [Penguicon](https://penguicon.org/), a 1600+ member open source, science fiction, literature, and DIY convention that takes place every spring in southeastern Michigan.
 
-## Technical Projects
- * [Better continuous integration for LaTeX projects](better-continuous-integration-for-latex-projects.html)
- * [Bendyboi Tracker](https://github.com/alis0nc/bendyboi-tracker), a Discord bot frontend to the [SMART](https://www.smartbus.org/) bus tracker API
-
-## Art
-I post my photographs and drawings to my [Instagram profile, @passport.mid](https://www.instagram.com/passport.mid/).
-
-## Conventions
-I'm the Head of Logistics for [Penguicon 2018](https://2018.penguicon.org/). I was the Assistant Head of Logistics for 2017, and the de facto Assistant Head of Logistics for 2016. Penguicon Logistics involves being the custodian of Penguicon's storage unit, working with nearly every other department of Penguicon to maintain the inventory of con possessions, and coordinating the transportation of all of Penguicon's possessions (plus a huge amount of food that is served in our hospitality suite) from the storage unit to the con venue.
-
-## Find me on the internet
- * [Twitter: @alisonc42](https://twitter.com/alisonc42)
- * [GitHub: alis0nc](https://github.com/alis0nc)
- * [OpenStreetMap: alisonc42](https://www.openstreetmap.org/user/alisonc42)
- * [My résumé](/alisonc-resume/resume_full_pub.pdf)
- * [email: alisonc@alisonc.net](mailto:alisonc@alisonc.net)
-
+You can find Alison on [Twitter (@alisonc42)](https://twitter.com/alisonc42), [Github (alis0nc)](https://github.com/alis0nc), [Instagram (@passport.mid)](https://www.instagram.com/passport.mid/), [OpenStreetMap (alisonc42)](https://www.openstreetmap.org/user/alisonc42), or [email (alisonc+bsite at alisonc.net)](mailto:alisonc+bsite@alisonc.net).
