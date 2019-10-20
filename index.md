@@ -3,7 +3,7 @@ title: alisonc
 layout: default
 ---
 
-**Alison C.** ([they/them or she/her](https://pronoun.is/they?or=she)) is a software engineer, public transit enthusiast, artist, smart home hacker, and convention organizer located in [Mexicantown, Detroit](https://en.wikipedia.org/wiki/Mexicantown,_Detroit).
+**Alison C.** ([they/them or she/her](https://pronoun.is/they?or=she)) is a software engineer, public transit enthusiast, and artist located in [Mexicantown, Detroit](https://en.wikipedia.org/wiki/Mexicantown,_Detroit).
 
 Alison has experience with multiple technical stacks, as well as DevOps, CI, and configuration management, and is the creator of "[What is this week's Torah portion?](https://whatisthisweekstorahportion.com/)".
 
