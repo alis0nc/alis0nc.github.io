@@ -3,7 +3,7 @@ title: alisonc
 layout: default
 ---
 
-**Alison C.** ([they/them or she/her](https://pronoun.is/they?or=she)) is a software engineer, public transit and cycling enthusiast, and artist located in [Mexicantown, Detroit](https://en.wikipedia.org/wiki/Mexicantown,_Detroit).
+**Alison C.** ([they/them or she/her](https://pronoun.is/they?or=she)) is a software engineer, public transit and cycling enthusiast, and artist located in [Ferndale, Michigan](https://en.wikipedia.org/wiki/Ferndale, Michigan).
 
 Currently, Alison has ridden at least 22 public transit systems across seven US states, one Canadian province, and Scotland. She's made some progress mapping  [Detroit Department of Transportation (DDOT)](http://detroitmi.gov/ddot) bus routes for [OpenStreetMap](https://www.openstreetmap.org/) ([progress spreadsheet here](https://docs.google.com/spreadsheets/d/1DuaTFLO9jS-ifWJ7lHtn8ZQgogPP24J--8n1pQ2hcqY/edit?usp=sharing)) and [riding her bike over every pedestrian bridge in Detroit](//alisonc.net/pedbridge-project).
 
