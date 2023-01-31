@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Hi! I'm **Alison Chan**. I write code and do other stuff. 

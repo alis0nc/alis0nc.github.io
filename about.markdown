@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+Character sheet, I suppose
+
 - Name: Alison Chan, Withonel, alisonc
 - Pronouns: en: [she/her](https://en.pronouns.page/she), es: [ella](https://pronombr.es/ella)
 - Languages (human): English, Español, [toki pona](https://tokipona.org/)
@@ -12,7 +14,7 @@ permalink: /about/
 - Timezone: `America/Detroit`
 - [MBTI](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator): INFJ
 - Astrological sign: Gemini sun, Capricorn moon, Gemini rising
-- Birthday: 1992-06-16
+- Birthday: <span class="date">1992-06-16</span>
 
 Ways to contact me:
 
