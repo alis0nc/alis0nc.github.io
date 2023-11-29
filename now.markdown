@@ -6,23 +6,21 @@ permalink: /now/
 
 This is a `/now` page. If you have a website, you should [make one too](https://nownownow.com/about)!
 
-Current as of <span class="date">2023-01-27</span>.
+Current as of <span class="date">2023-11-29</span>.
 
 ## Consuming
 
-- Novels: _[A Wild Sheep Chase](https://app.thestorygraph.com/books/1ae1a95b-b95c-4900-a890-f2222e3c2fcf)_ by Haruki Murakami
-- Nonfiction: _[Creating a Line Family: Love, Abundance, & Belonging in the New Millennium](https://app.thestorygraph.com/books/ed6381a3-4e03-4df8-ae4c-7b770cceb855)_ by Richard Gilmore and Elon de Arcana
-- Manga: _[Cat + Gamer](https://app.thestorygraph.com/books/9d33c5b1-af86-4520-a10e-89e741837714)_ by Wataru Nadatani, _[I Am a Cat Barista](https://app.thestorygraph.com/series/1246957)_ by Hiro Maijima, _[Perfect World](https://app.thestorygraph.com/series/131517)_ by Rie Aruga
-- Television: _[Extraordinary Attorney Woo](https://www.imdb.com/title/tt20869502/)_ (with [Eleanor](https://twitter.com/SoftButReady/)), _[Wednesday](https://www.imdb.com/title/tt13443470/)_
+- Video games: _[Utawarerumono: Prelude to the Fallen](https://www.metacritic.com/game/utawarerumono-prelude-to-the-fallen/)_ (PS Vita)
+- Manga: _[Perfect World](https://app.thestorygraph.com/series/131517)_ by Rie Aruga, _[Silver Spoon](https://app.thestorygraph.com/series/6091)_ by Hiromu Arakawa
 
 ## Learning
 
-- how to be a homeowner
-- Relearning the ways of Jekyll for this website
+- home ownership
+- TypeScript
 
 ## Creating
 
-- Building [plastic models](https://en.wikipedia.org/wiki/Plastic_model). Mostly cars, some mecha.
-- Rebuilding my personal website from scratch. That's this website.
+- Setting up my home office again now that I have a stable space for it.
+- Building [plastic models](https://en.wikipedia.org/wiki/Plastic_model). Mostly cars, some mecha. You can follow my projects on [Scalemates](https://www.scalemates.com/profiles/mate.php?id=104315), but I'm pretty bad at updating that site.
 - [Junkyard scraper](https://github.com/alis0nc/junkyard_scraper): it scrapes the inventory pages of local self-service junkyards for unified search.
 - Day job: Software Engineer at [CompanyCam](https://companycam.com/).
