@@ -6,7 +6,7 @@ permalink: /now/
 
 This is a `/now` page. If you have a website, you should [make one too](https://nownownow.com/about)!
 
-Current as of <span class="date">2024-09-09</span>.
+Current as of <span class="date">2024-10-10</span>.
 
 ## Consuming
 
