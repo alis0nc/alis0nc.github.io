@@ -7,8 +7,8 @@ permalink: /about/
 Character sheet, I suppose
 
 - Name: Alison Chan, Withonel, alisonc
-- Pronouns: en: [she/her](https://en.pronouns.page/she), es: [ella](https://pronombr.es/ella)
-- Languages (human): English, Español, [toki pona](https://tokipona.org/)
+- Pronouns: en: _[she/her](https://en.pronouns.page/she)_, es: _[ella](https://pronombr.es/ella)_, eo: _ŝi_ aŭ _ri_
+- Languages (human): English, Español, [toki pona](https://tokipona.org/), Esperanto
 - Languages (computer): JavaScript & TypeScript (React), Python, Ruby (Rails)
 - Location: Detroit, Michigan ([LOC](https://en.wikipedia.org/wiki/Maidenhead_Locator_System) [`EN82kh`](https://www.karhukoti.com/maidenhead-grid-square-locator/?grid=en82kh))
 - Timezone: `America/Detroit`
@@ -20,5 +20,4 @@ Ways to contact me:
 
 - Discord: [`withonel`](https://discordapp.com/users/302300839588921344)
 - Mastodon: [`@alison@tacobelllabs.net`](https://tacobelllabs.net/@alison)
-- Twitter (moistly inactive): [`@alisonc42`](https://twitter.com/alisonc42)
 - Instagram: [`@passport.mid`](https://instagram.com/passport.mid)
