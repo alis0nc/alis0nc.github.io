@@ -14,13 +14,12 @@ project_entries:
     desc: Scrape inventory pages of local self-service junkyards to enable searching multiple yards at once
     highlight: WIP
 
-  - title: Example
-    url: https://www.example.org
-    desc: Hwæt. We Gardena in geardagum, þeodcyninga, þrym gefrunon, hu ða æþelingas ellen fremedon
+  - title: ilo nimi mi pi sitelen pona
+    url: /tokipona/ilo-nimi-mi-pi-sitelen-pona.html
+    desc: >-
+      mi pali e ilo nimi pi sitelen pona.<br />
+      I made a sitelen pona signature stamp
 
-  - title: Example
-    url: https://www.example.org
-    desc: Hwæt. We Gardena in geardagum, þeodcyninga, þrym gefrunon, hu ða æþelingas ellen fremedon
 
 footer_entries:
   - title: github
