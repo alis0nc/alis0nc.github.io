@@ -22,7 +22,7 @@ title: alisonc
 author: Alison Chan
 email: alisonc@alisonc.net
 description: >- # this means to ignore newlines until "baseurl:"
-  alisonc's website
+  alison's website
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alisonc.net" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -32,6 +32,8 @@ github_username: alis0nc
 remote_theme: alis0nc/tawa-lon-mun
 plugins:
   - jekyll-feed
+
+permalink: /:categories/:title:output_ext
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
