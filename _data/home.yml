@@ -14,11 +14,10 @@ project_entries:
     desc: Scrape inventory pages of local self-service junkyards to enable searching multiple yards at once
     highlight: WIP
 
-  - title: ilo nimi mi pi sitelen pona
-    url: /tokipona/ilo-nimi-mi-pi-sitelen-pona.html
+  - title: seme Alison li....
+    url: https://seme.alison.li/
     desc: >-
-      mi pali e ilo nimi pi sitelen pona.<br />
-      I made a sitelen pona signature stamp
+      toki pona taso webpage for my toki pona related projects
 
 
 footer_entries:
